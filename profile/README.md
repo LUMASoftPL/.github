@@ -15,10 +15,10 @@ what a tool can and cannot do.
 
 - **SqlSage for SSMS** — an AI pair-DBA extension (VSIX add-in) for SQL Server Management Studio 22 on
   Windows. Explains errors, tunes slow queries and runs SQL safely.
-  → https://sqlsage.lumasoft.pl
+  → https://sqlsage.lumasoft.org
 - **SqlSage for DBeaver** — an AI SQL copilot inside DBeaver: query your database in plain language
   across PostgreSQL, MySQL/MariaDB, Oracle, SQL Server and SQLite.
-  → https://sqlsagedbeaver.lumasoft.pl
+  → https://sqlsagedbeaver.lumasoft.org
 
 ## What our tools share
 
@@ -32,6 +32,6 @@ what a tool can and cannot do.
 
 ## Company
 
-- **Website:** https://lumasoft.pl
+- **Website:** https://www.lumasoft.org
 - **Vendor:** LumaSoft (legal: LUMA sp. z o.o.), Warszawa, Poland — independent software vendor.
 - **Independence:** LumaSoft is not affiliated with Microsoft, Anthropic, OpenAI or DBeaver.
